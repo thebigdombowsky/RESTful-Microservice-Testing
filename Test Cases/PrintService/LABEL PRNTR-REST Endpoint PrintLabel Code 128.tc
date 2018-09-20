@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LABEL PRNTR-REST Endpoint PrintLabel Code 128</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>076dd5e4-aa5d-445c-a48c-3d9be69ac382</testCaseGuid>
+</TestCaseEntity>

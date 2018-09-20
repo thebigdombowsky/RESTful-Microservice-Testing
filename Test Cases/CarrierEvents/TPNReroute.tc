@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test will register a carrier and then send it through a TransPONet reroute event flow</description>
+   <name>TPNReroute</name>
+   <tag>TPN Carrier Events</tag>
+   <comment></comment>
+   <testCaseGuid>271b23cf-bf15-488a-8f29-b220833ef3b8</testCaseGuid>
+</TestCaseEntity>

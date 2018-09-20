@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: TransLogicFreerunWithReroute - WS Katalon
+Description: This test will register a carrier and traverse it through a Freerun with Reroute workflow</description>
+   <name>DM-738</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf0e9f06-9689-4ef7-8790-5efbc92cf4a4</testCaseGuid>
+</TestCaseEntity>

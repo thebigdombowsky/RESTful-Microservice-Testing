@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test will create an order with 255 characters and then create an order with greater than 256 characters. It will then cancel those orders.</description>
+   <name>dispenseOrderContentLongDescription</name>
+   <tag>Orders</tag>
+   <comment>Call the createNewOrder Keyword to create a new order via REST endpoint api/atp/dispenseorders</comment>
+   <testCaseGuid>1c41a916-104a-4936-acb0-817a6159753b</testCaseGuid>
+</TestCaseEntity>

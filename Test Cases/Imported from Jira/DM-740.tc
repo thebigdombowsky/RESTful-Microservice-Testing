@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: TPNReroute - WS Katalon
+Description: This test will register a carrier and then traverse it though a TransPONet reroute event workflow</description>
+   <name>DM-740</name>
+   <tag></tag>
+   <comment>Call the createNewOrder Keyword to create a new order via REST endpoint api/atp/dispenseorders</comment>
+   <testCaseGuid>7aee6f40-0e2e-4ae1-bece-5f46289d5cc3</testCaseGuid>
+</TestCaseEntity>

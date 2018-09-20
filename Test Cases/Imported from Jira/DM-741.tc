@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: TPNTimeout - WS Katalon
+Description: This test will register a carrier for a TransPONet workflow, let the timeout expire and then attempt to send an ACCEPTED event</description>
+   <name>DM-741</name>
+   <tag></tag>
+   <comment>Call the createNewOrder Keyword to create a new order via REST endpoint api/atp/dispenseorders</comment>
+   <testCaseGuid>5398634a-c04d-44bc-be80-f6a3337f51b6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create a new orer and then cancel it</description>
+   <name>cancelOrder</name>
+   <tag>Orders</tag>
+   <comment>Call the createNewOrder Keyword to create a new order via REST endpoint api/dispenseorders
+Call the cancelOrder Keyword to change the quantity of the order just created via REST endpoint api/dispenseorders</comment>
+   <testCaseGuid>78fd3522-6b43-4ccd-840a-1a34cdb9e82d</testCaseGuid>
+</TestCaseEntity>

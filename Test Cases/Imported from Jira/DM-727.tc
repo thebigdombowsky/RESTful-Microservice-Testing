@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: dispenseOrder - WS Katalon
+Description: This test calls the Katalon dispenseOrder test which uses the api/dispenseorders endpoint to create a new order.</description>
+   <name>DM-727</name>
+   <tag></tag>
+   <comment>Call the createNewOrder Keyword to create a new order via REST endpoint api/atp/dispenseorders</comment>
+   <testCaseGuid>b8b4e480-8cee-4bf6-9f5f-b2b7b08213b8</testCaseGuid>
+</TestCaseEntity>

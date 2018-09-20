@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: registerCarrier - WS Katalon
+Description: This test will call the api/carriers PATCH endpoint to register a carrier and then will unregister that same carrier</description>
+   <name>DM-732</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb18d99b-1965-46e9-992e-709740efcf6e</testCaseGuid>
+</TestCaseEntity>

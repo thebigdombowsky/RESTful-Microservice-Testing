@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>dispenseOrdersCharacterLimit</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>09a4f0dd-790c-4042-b7a6-844f7a227d2b</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>200 Lorem+ipsum+dolor+sit+amet%2C+consectetuer+adipiscing+elit.+Aenean+commodo+ligula+eget+dolor.+Aenean+massa.+Cum+sociis+natoque+penatibus+et+magnis+dis+parturient+montes%2C+nascetur+ridiculus+mus.+Donec+quam+felis%2C+ultricies+nec%2C+pellentesque+eu%2C+pretium+quis. SWLG0006 nursingStation%2FHouseInstallation%2FFoothills%2FMain%2FCardiac%2F4Central</data>
+   <data>711 Lorem+ipsum+dolor+sit+amet%2C+consectetuer+adipiscing+elit.+Aenean+commodo+ligula+eget+dolor.+Aenean+massa.+Cum+sociis+natoque+penatibus+et+magnis+dis+parturient+montes%2C+nascetur+ridiculus+mus.+Donec+quam+felis%2C+ultricies+nec%2C+pellentesque+eu%2C+pretium+quis.+Lorem+ipsum+dolor+sit+amet%2C+consectetuer+adipiscing+elit.+Aenean+commodo+ligula+eget+dolor.+Aenean+massa.+Cum+sociis+natoque+penatibus+et+magnis+dis+parturient+montes%2C+nascetur+ridiculus+mus.+Donec+quam+felis%2C+ultricies+nec%2C+pellentesque+eu%2C+pretium+quis..Lorem+ipsum+dolor+sit+amet%2C+consectetuer+adipiscing+elit.+Aenean+commodo+ligula+eget+dolor.+Aenean+massa.+Cum+sociis+natoque+penatibus+et+magnis+dis+parturient+montes%2C+nascetur+ridiculus+mus.+Donec+quam+felis%2C+ultricies+nec%2C+pellentesque+eu%2C+pretium+quis.+Lorem+ipsum+dolor+sit+amet%2C+consectetuer+adipiscing+elit.+Aenean+commodo+ligula+eget+dolor.+Aenean+massa.+Cum+sociis+natoque+penatibus+et+magnis+dis+parturient+montes%2C+nascetur+ridiculus+mus.+Donec+quam+felis%2C+ultricies+nec%2C+pellentesque+eu%2C+pretium+quis.. SWLG0005 nursingStation%2FHouseInstallation%2FFoothills%2FMain%2FCardiac%2F4Central</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Quantity</name>
+      <size>2</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>Description</name>
+      <size>2</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>Identifier</name>
+      <size>2</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>Location</name>
+      <size>2</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

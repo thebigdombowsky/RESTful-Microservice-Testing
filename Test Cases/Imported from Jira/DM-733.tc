@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: TransLogicHappyPath - WS Katalon
+Description: This test will call the api/carriers PATCH endpoint to register a carrier. It will then call the api/translogic/carriers\{identifier}/ptsEvents endpoint to move a carrier through DISPATCHED, ARRIVED, and DELIVERED events.</description>
+   <name>DM-733</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>52683f1a-ab47-47c1-8711-dfd176cfba64</testCaseGuid>
+</TestCaseEntity>

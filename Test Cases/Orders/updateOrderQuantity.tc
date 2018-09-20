@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Call api/dispense/itemCount to update the quantity of an order</description>
+   <name>updateOrderQuantity</name>
+   <tag>Orders</tag>
+   <comment>Call the createNewOrder Keyword to create a new order via REST endpoint api/dispenseorders
+Call the updateOrderQuantity Keyword to change the quantity of the order just created via REST endpoint api/dispenseorders</comment>
+   <testCaseGuid>42e2d011-4510-4317-858d-d9ff68ed427c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test will call the api/carriers endpoint to register a carrier and then call the api/translogic/{identifier}/ptsEvents endpoit to move the carrier through a Rerouted workflow.</description>
+   <name>TransLogicReRoute</name>
+   <tag>TransLogic Carrier Events</tag>
+   <comment>Call the createNewOrder Keyword to create a new order via REST endpoint api/atp/dispenseorders</comment>
+   <testCaseGuid>2bc21bed-c088-4d67-a0cf-c319015b4cda</testCaseGuid>
+</TestCaseEntity>

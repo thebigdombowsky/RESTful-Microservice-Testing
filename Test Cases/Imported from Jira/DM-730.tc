@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: dispenseOrderContentLongDescription - WS Katalon
+Description: This test will create new orders with extremely long product descriptions and then cancel them through the api/dispenseorders endpoint.</description>
+   <name>DM-730</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3d66f35c-6361-4f5a-98fe-36ba719e4462</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>printLabel</name>
+   <tag>PrintService</tag>
+   <comment></comment>
+   <testCaseGuid>f49ea249-e128-422d-9f8c-ae856dccf87b</testCaseGuid>
+</TestCaseEntity>

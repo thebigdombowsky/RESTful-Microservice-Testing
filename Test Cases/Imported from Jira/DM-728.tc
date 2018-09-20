@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: cancelOrder - WS Katalon
+Description: This test will call the cancelOrder Katalon test to use the api/dispenseorders endpoint to create a new order and then cancel it.</description>
+   <name>DM-728</name>
+   <tag></tag>
+   <comment>Call the createNewOrder Keyword to create a new order via REST endpoint api/dispenseorders
+Call the cancelOrder Keyword to change the quantity of the order just created via REST endpoint api/dispenseorders</comment>
+   <testCaseGuid>5328e67d-4d6f-4c80-a757-5454a555c4f9</testCaseGuid>
+</TestCaseEntity>

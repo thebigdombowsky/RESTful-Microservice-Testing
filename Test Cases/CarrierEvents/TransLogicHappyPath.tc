@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test will register a carrier then post a Translogic DISPATCHED event and then unregister the carrier</description>
+   <name>TransLogicHappyPath</name>
+   <tag>TransLogic Carrier Events</tag>
+   <comment>Call the createNewOrder Keyword to create a new order via REST endpoint api/atp/dispenseorders</comment>
+   <testCaseGuid>15d71d0c-4c33-4316-a1a4-60b331ceef6c</testCaseGuid>
+</TestCaseEntity>

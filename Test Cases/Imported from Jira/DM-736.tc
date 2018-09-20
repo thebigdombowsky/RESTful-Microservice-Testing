@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: TransLogicUnregisterContent - WS Katalon
+Description: This test will register a carrier withÂ content, unegister it, register it again, proceed through the a standard delivery path and then unregister it.</description>
+   <name>DM-736</name>
+   <tag></tag>
+   <comment>Call the createNewOrder Keyword to create a new order via REST endpoint api/atp/dispenseorders</comment>
+   <testCaseGuid>556dba52-5026-4ae3-a6a2-9ec4677b4ebf</testCaseGuid>
+</TestCaseEntity>

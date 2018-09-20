@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Call the /api/locationCommands endpoint to add a new carrier</description>
+   <name>createLocationCarrier</name>
+   <tag>Locations</tag>
+   <comment></comment>
+   <testCaseGuid>f6190286-1d36-400a-9496-1e33e8aca9dc</testCaseGuid>
+</TestCaseEntity>

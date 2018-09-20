@@ -1,0 +1,13 @@
+{
+	"count": 101,
+	"locationId": "dispenseOrder/SWLG-1000-DO-502",
+	"itemId": "generic/09b05a9f-7d24-4ecb-98db-6d3c01bf3c8b",
+	"commands": {
+		"identifiers": [{}
+		],
+		"items": [{}
+		],
+		"links": [{}
+		]
+	}
+}

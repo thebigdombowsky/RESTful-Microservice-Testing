@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: TPNHappyPath - WS Katalon
+Description: This test will register a carrier and then send it through a happy path scenario for TransPONet events</description>
+   <name>DM-739</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc96ccd5-ce94-4302-8354-108a18f47f68</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test will register a carrier, dispatch it, sned a reroute event and simulate a freerun</description>
+   <name>TransLogicFreerunWithReroute</name>
+   <tag>Translogic Carrier Events</tag>
+   <comment>Call the createNewOrder Keyword to create a new order via REST endpoint api/atp/dispenseorders</comment>
+   <testCaseGuid>1e009e17-c503-4afa-b895-d105bdef82bb</testCaseGuid>
+</TestCaseEntity>

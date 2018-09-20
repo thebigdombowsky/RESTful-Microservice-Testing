@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test will register a carrier, unregister it, register it with content, send through a standard flow and then unregister.</description>
+   <name>TransLogicUnregisterContent</name>
+   <tag>TransLogic Carrier Events</tag>
+   <comment>Call the createNewOrder Keyword to create a new order via REST endpoint api/atp/dispenseorders</comment>
+   <testCaseGuid>54f57f44-7ca7-4a01-975d-6abc1be8e600</testCaseGuid>
+</TestCaseEntity>

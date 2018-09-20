@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestPrinter local-REST Endpoint PrintLabel Code 128</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c10747a1-0bf4-4ab9-ba07-fcc29e8bf983</testCaseGuid>
+</TestCaseEntity>

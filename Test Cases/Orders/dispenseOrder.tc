@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Call the api/dispenseorders endpoint to create a new order and then cancel it</description>
+   <name>dispenseOrder</name>
+   <tag>Orders</tag>
+   <comment>Call the createNewOrder Keyword to create a new order via REST endpoint api/atp/dispenseorders</comment>
+   <testCaseGuid>8858bd0d-c90b-4524-9ee4-9bfad6919741</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('dispeseOrders')</defaultValue>
+      <description></description>
+      <id>ccc42429-05f3-4e12-8a00-cfe8642fdb83</id>
+      <masked>false</masked>
+      <name>Quantity</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('dispeseOrders')</defaultValue>
+      <description></description>
+      <id>1ce5d3da-6b37-40ca-8443-3dfcbf3c4b91</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('dispeseOrders')</defaultValue>
+      <description></description>
+      <id>74478104-7d4a-4903-bbc7-eb21ad89d76f</id>
+      <masked>false</masked>
+      <name>Identifier</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('dispeseOrders')</defaultValue>
+      <description></description>
+      <id>1b410f3c-3937-40a3-a811-28839e0c21ea</id>
+      <masked>false</masked>
+      <name>Location</name>
+   </variable>
+</TestCaseEntity>

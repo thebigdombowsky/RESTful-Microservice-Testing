@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test will register a carrier, let the timeout expire and then attempt to accept it.</description>
+   <name>TPNTimeout</name>
+   <tag>TPN Carrier Events</tag>
+   <comment>Call the createNewOrder Keyword to create a new order via REST endpoint api/atp/dispenseorders</comment>
+   <testCaseGuid>cd7441ba-a82f-4b97-a8ea-3b373f1a3590</testCaseGuid>
+</TestCaseEntity>

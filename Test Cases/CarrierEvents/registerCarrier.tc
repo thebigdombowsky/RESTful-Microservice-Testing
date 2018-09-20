@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test will calll the api/carriers PATCH endpoint to register a carrier and then calls it again to unregister the carrier.</description>
+   <name>registerCarrier</name>
+   <tag>Carriers</tag>
+   <comment>Call the createNewOrder Keyword to create a new order via REST endpoint api/atp/dispenseorders</comment>
+   <testCaseGuid>77fe7098-62db-40df-ae9e-66047cb677f8</testCaseGuid>
+</TestCaseEntity>
